@@ -1,1 +1,1 @@
-My second zero day readme
+Zero README
